@@ -9,3 +9,5 @@ List of people who attended the workshop:
 Kartik Jain
 
 Pahel Dharod
+
+Yuvraj Bishnoi
