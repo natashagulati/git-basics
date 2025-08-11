@@ -4,6 +4,8 @@ To setup this server, follow these steps:
 
 `npm start`
 
-
 List of people who attended the workshop:
+
 Kartik Jain
+
+Pahel Dharod
